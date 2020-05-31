@@ -3,3 +3,4 @@ manual_scaling:
   instances: 1
 resources:
   cpu: 1
+  #weird it didnt commit the first time
